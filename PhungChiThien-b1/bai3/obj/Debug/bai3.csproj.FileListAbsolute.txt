@@ -1,0 +1,6 @@
+C:\Users\Thien\Desktop\PhungChiThien-b1\bai3\bin\Debug\bai3.exe.config
+C:\Users\Thien\Desktop\PhungChiThien-b1\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\PhungChiThien-b1\bai3\bin\Debug\bai3.exe
+C:\Users\Thien\Desktop\PhungChiThien-b1\bai3\bin\Debug\bai3.pdb
+C:\Users\Thien\Desktop\PhungChiThien-b1\bai3\obj\Debug\bai3.exe
+C:\Users\Thien\Desktop\PhungChiThien-b1\bai3\obj\Debug\bai3.pdb
