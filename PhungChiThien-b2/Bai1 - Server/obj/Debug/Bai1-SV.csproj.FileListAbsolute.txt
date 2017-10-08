@@ -1,0 +1,9 @@
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\bin\Debug\Bai1-SV.exe.config
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\obj\Debug\Bai1-SV.csprojResolveAssemblyReference.cache
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\obj\Debug\Bai1_SV.Form1.resources
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\obj\Debug\Bai1_SV.Properties.Resources.resources
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\obj\Debug\Bai1-SV.csproj.GenerateResource.Cache
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\bin\Debug\Bai1-SV.exe
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\bin\Debug\Bai1-SV.pdb
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\obj\Debug\Bai1-SV.exe
+E:\Buoi2TH\TranThanhNguyen-Buoi2\Bai1-SV\obj\Debug\Bai1-SV.pdb

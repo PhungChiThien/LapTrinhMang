@@ -1,0 +1,9 @@
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\bin\Debug\Bai1 - Server.exe.config
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\bin\Debug\Bai1 - Server.exe
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\bin\Debug\Bai1 - Server.pdb
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\obj\Debug\Bai1 - Server.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\obj\Debug\Bai1_SV.Form1.resources
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\obj\Debug\Bai1___Server.Properties.Resources.resources
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\obj\Debug\Bai1 - Server.csproj.GenerateResource.Cache
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\obj\Debug\Bai1 - Server.exe
+C:\Users\Thien\Desktop\PhungChiThien-b2\Bai1 - Server\obj\Debug\Bai1 - Server.pdb
