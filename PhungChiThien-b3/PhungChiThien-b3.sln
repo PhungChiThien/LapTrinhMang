@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OanTuTi Server", "OanTuTi Server\OanTuTi Server.csproj", "{EAC5272E-8CB2-494A-ACB2-847C094ED628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneTuTi Client", "OneTuTi Client\OneTuTi Client.csproj", "{91272A11-4E64-4CD3-80D5-5DA01754E2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC5272E-8CB2-494A-ACB2-847C094ED628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC5272E-8CB2-494A-ACB2-847C094ED628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC5272E-8CB2-494A-ACB2-847C094ED628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC5272E-8CB2-494A-ACB2-847C094ED628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91272A11-4E64-4CD3-80D5-5DA01754E2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91272A11-4E64-4CD3-80D5-5DA01754E2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91272A11-4E64-4CD3-80D5-5DA01754E2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91272A11-4E64-4CD3-80D5-5DA01754E2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
