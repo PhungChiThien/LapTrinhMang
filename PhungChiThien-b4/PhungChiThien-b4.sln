@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "Bai2\Bai2.csproj", "{BE9C9B11-891E-405B-924C-8698433DC8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_server", "Bai4\Bai4_server.csproj", "{631C19EC-CE7D-4AB5-A93F-8E9DA3F1DEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_client", "Bai4_client\Bai4_client.csproj", "{250B6C63-B937-4536-AEB2-B7206D7D5306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9C9B11-891E-405B-924C-8698433DC8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9C9B11-891E-405B-924C-8698433DC8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9C9B11-891E-405B-924C-8698433DC8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9C9B11-891E-405B-924C-8698433DC8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631C19EC-CE7D-4AB5-A93F-8E9DA3F1DEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631C19EC-CE7D-4AB5-A93F-8E9DA3F1DEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631C19EC-CE7D-4AB5-A93F-8E9DA3F1DEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631C19EC-CE7D-4AB5-A93F-8E9DA3F1DEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250B6C63-B937-4536-AEB2-B7206D7D5306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250B6C63-B937-4536-AEB2-B7206D7D5306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250B6C63-B937-4536-AEB2-B7206D7D5306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250B6C63-B937-4536-AEB2-B7206D7D5306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
